@@ -4,7 +4,7 @@
 
 ## Citations
 
-@article{Layer2025LLMTrace,
+```@article{Layer2025LLMTrace,
   Title = {{LLMTrace: A Corpus for Classification and Fine-Grained Localization of AI-Written Text}},
   Author = {Irina Tolstykh and Aleksandra Tsybina and Sergey Yakubson and Maksim Kuprashevich},
   Year = {2025},
