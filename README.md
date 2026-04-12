@@ -152,7 +152,7 @@ Phi3ForSequenceClassification(
 
 ---
 
-## Citations
+## Источники
 
 
 ```@article{Layer2025LLMTrace,
